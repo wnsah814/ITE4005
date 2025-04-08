@@ -1,0 +1,541 @@
+['med', 'vhigh', '2', '4', 'med', 'med']
+safety None
+med
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+4
+child: {'4': <__main__.Node object at 0x7f441f3f3970>, 'more': <__main__.Node object at 0x7f441ff872b0>, '2': <__main__.Node object at 0x7f441f3f3a00>}
+buying None
+med
+child: {'high': <__main__.Node object at 0x7f441f3f3a60>, 'med': <__main__.Node object at 0x7f441f3f3b20>, 'low': <__main__.Node object at 0x7f441f3f3ac0>, 'vhigh': <__main__.Node object at 0x7f441f3f3f40>}
+maint None
+vhigh
+child: {'high': <__main__.Node object at 0x7f441f3f3f70>, 'med': <__main__.Node object at 0x7f441ff971f0>, 'low': <__main__.Node object at 0x7f441ff97190>, 'vhigh': <__main__.Node object at 0x7f441ff974f0>}
+lug_boot None
+med
+child: {'med': <__main__.Node object at 0x7f441ff97820>, 'small': <__main__.Node object at 0x7f441ff97880>, 'big': <__main__.Node object at 0x7f441ff978e0>}
+None acc
+['low', 'high', '4', '4', 'small', 'low']
+safety None
+low
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+None unacc
+['high', 'vhigh', '4', '4', 'med', 'med']
+safety None
+med
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+4
+child: {'4': <__main__.Node object at 0x7f441f3f3970>, 'more': <__main__.Node object at 0x7f441ff872b0>, '2': <__main__.Node object at 0x7f441f3f3a00>}
+buying None
+high
+child: {'high': <__main__.Node object at 0x7f441f3f3a60>, 'med': <__main__.Node object at 0x7f441f3f3b20>, 'low': <__main__.Node object at 0x7f441f3f3ac0>, 'vhigh': <__main__.Node object at 0x7f441f3f3f40>}
+lug_boot None
+med
+child: {'med': <__main__.Node object at 0x7f441f3f3b50>, 'small': <__main__.Node object at 0x7f441f3f3bb0>, 'big': <__main__.Node object at 0x7f441f3f3c10>}
+doors None
+4
+child: {'5more': <__main__.Node object at 0x7f441f3f3c40>, '4': <__main__.Node object at 0x7f441f3f3d00>, '2': <__main__.Node object at 0x7f441f3f3ca0>, '3': <__main__.Node object at 0x7f441f3f3e80>}
+None acc
+['high', 'vhigh', '4', 'more', 'big', 'low']
+safety None
+low
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+None unacc
+['low', 'high', '3', 'more', 'med', 'low']
+safety None
+low
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+None unacc
+['med', 'high', '2', 'more', 'small', 'high']
+safety None
+high
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+more
+child: {'4': <__main__.Node object at 0x7f441f3fd130>, 'more': <__main__.Node object at 0x7f441f3f84c0>, '2': <__main__.Node object at 0x7f441f402430>}
+buying None
+med
+child: {'high': <__main__.Node object at 0x7f441f3f85b0>, 'med': <__main__.Node object at 0x7f441f3f8610>, 'low': <__main__.Node object at 0x7f441f3f8670>, 'vhigh': <__main__.Node object at 0x7f441f3f8df0>}
+maint None
+high
+child: {'high': <__main__.Node object at 0x7f441f3f8fa0>, 'med': <__main__.Node object at 0x7f441f3f8490>, 'low': <__main__.Node object at 0x7f441f3fffa0>, 'vhigh': <__main__.Node object at 0x7f441f3fff40>}
+None acc
+['vhigh', 'low', '3', '2', 'med', 'high']
+safety None
+high
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+2
+child: {'4': <__main__.Node object at 0x7f441f3fd130>, 'more': <__main__.Node object at 0x7f441f3f84c0>, '2': <__main__.Node object at 0x7f441f402430>}
+None unacc
+['med', 'high', '2', '4', 'small', 'low']
+safety None
+low
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+None unacc
+['med', 'low', '5more', '4', 'small', 'med']
+safety None
+med
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+4
+child: {'4': <__main__.Node object at 0x7f441f3f3970>, 'more': <__main__.Node object at 0x7f441ff872b0>, '2': <__main__.Node object at 0x7f441f3f3a00>}
+buying None
+med
+child: {'high': <__main__.Node object at 0x7f441f3f3a60>, 'med': <__main__.Node object at 0x7f441f3f3b20>, 'low': <__main__.Node object at 0x7f441f3f3ac0>, 'vhigh': <__main__.Node object at 0x7f441f3f3f40>}
+maint None
+low
+child: {'high': <__main__.Node object at 0x7f441f3f3f70>, 'med': <__main__.Node object at 0x7f441ff971f0>, 'low': <__main__.Node object at 0x7f441ff97190>, 'vhigh': <__main__.Node object at 0x7f441ff974f0>}
+doors None
+5more
+child: {'5more': <__main__.Node object at 0x7f441ff97580>, '4': <__main__.Node object at 0x7f441ff975e0>, '2': <__main__.Node object at 0x7f441ff97640>, '3': <__main__.Node object at 0x7f441ff976a0>}
+None good
+['med', 'low', '5more', '2', 'big', 'med']
+safety None
+med
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+2
+child: {'4': <__main__.Node object at 0x7f441f3f3970>, 'more': <__main__.Node object at 0x7f441ff872b0>, '2': <__main__.Node object at 0x7f441f3f3a00>}
+None unacc
+['med', 'low', '4', 'more', 'big', 'high']
+safety None
+high
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+more
+child: {'4': <__main__.Node object at 0x7f441f3fd130>, 'more': <__main__.Node object at 0x7f441f3f84c0>, '2': <__main__.Node object at 0x7f441f402430>}
+buying None
+med
+child: {'high': <__main__.Node object at 0x7f441f3f85b0>, 'med': <__main__.Node object at 0x7f441f3f8610>, 'low': <__main__.Node object at 0x7f441f3f8670>, 'vhigh': <__main__.Node object at 0x7f441f3f8df0>}
+maint None
+low
+child: {'high': <__main__.Node object at 0x7f441f3f8fa0>, 'med': <__main__.Node object at 0x7f441f3f8490>, 'low': <__main__.Node object at 0x7f441f3fffa0>, 'vhigh': <__main__.Node object at 0x7f441f3fff40>}
+lug_boot None
+big
+child: {'med': <__main__.Node object at 0x7f441f385490>, 'small': <__main__.Node object at 0x7f441f3854f0>, 'big': <__main__.Node object at 0x7f441f385550>}
+None vgood
+['low', 'low', '4', '2', 'big', 'high']
+safety None
+high
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+2
+child: {'4': <__main__.Node object at 0x7f441f3fd130>, 'more': <__main__.Node object at 0x7f441f3f84c0>, '2': <__main__.Node object at 0x7f441f402430>}
+None unacc
+['low', 'low', '3', 'more', 'med', 'low']
+safety None
+low
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+None unacc
+['high', 'med', '2', '2', 'big', 'high']
+safety None
+high
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+2
+child: {'4': <__main__.Node object at 0x7f441f3fd130>, 'more': <__main__.Node object at 0x7f441f3f84c0>, '2': <__main__.Node object at 0x7f441f402430>}
+None unacc
+['high', 'low', '4', 'more', 'small', 'low']
+safety None
+low
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+None unacc
+['med', 'vhigh', '3', '4', 'med', 'med']
+safety None
+med
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+4
+child: {'4': <__main__.Node object at 0x7f441f3f3970>, 'more': <__main__.Node object at 0x7f441ff872b0>, '2': <__main__.Node object at 0x7f441f3f3a00>}
+buying None
+med
+child: {'high': <__main__.Node object at 0x7f441f3f3a60>, 'med': <__main__.Node object at 0x7f441f3f3b20>, 'low': <__main__.Node object at 0x7f441f3f3ac0>, 'vhigh': <__main__.Node object at 0x7f441f3f3f40>}
+maint None
+vhigh
+child: {'high': <__main__.Node object at 0x7f441f3f3f70>, 'med': <__main__.Node object at 0x7f441ff971f0>, 'low': <__main__.Node object at 0x7f441ff97190>, 'vhigh': <__main__.Node object at 0x7f441ff974f0>}
+lug_boot None
+med
+child: {'med': <__main__.Node object at 0x7f441ff97820>, 'small': <__main__.Node object at 0x7f441ff97880>, 'big': <__main__.Node object at 0x7f441ff978e0>}
+None acc
+['low', 'low', '3', 'more', 'small', 'high']
+safety None
+high
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+more
+child: {'4': <__main__.Node object at 0x7f441f3fd130>, 'more': <__main__.Node object at 0x7f441f3f84c0>, '2': <__main__.Node object at 0x7f441f402430>}
+buying None
+low
+child: {'high': <__main__.Node object at 0x7f441f3f85b0>, 'med': <__main__.Node object at 0x7f441f3f8610>, 'low': <__main__.Node object at 0x7f441f3f8670>, 'vhigh': <__main__.Node object at 0x7f441f3f8df0>}
+maint None
+low
+child: {'high': <__main__.Node object at 0x7f441f385760>, 'med': <__main__.Node object at 0x7f441f385820>, 'low': <__main__.Node object at 0x7f441f385ca0>, 'vhigh': <__main__.Node object at 0x7f441f3857c0>}
+lug_boot None
+small
+child: {'small': <__main__.Node object at 0x7f441f385f70>, 'big': <__main__.Node object at 0x7f441f385fd0>}
+doors None
+3
+child: {'5more': <__main__.Node object at 0x7f441f3870a0>, '2': <__main__.Node object at 0x7f441f387100>}
+by major.. good
+['vhigh', 'med', '2', 'more', 'med', 'med']
+safety None
+med
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+more
+child: {'4': <__main__.Node object at 0x7f441f3f3970>, 'more': <__main__.Node object at 0x7f441ff872b0>, '2': <__main__.Node object at 0x7f441f3f3a00>}
+buying None
+vhigh
+child: {'high': <__main__.Node object at 0x7f441ff87f10>, 'med': <__main__.Node object at 0x7f441ff87fd0>, 'low': <__main__.Node object at 0x7f441ff87e50>, 'vhigh': <__main__.Node object at 0x7f441ff87f70>}
+maint None
+med
+child: {'high': <__main__.Node object at 0x7f441ff98490>, 'med': <__main__.Node object at 0x7f441ff98910>, 'low': <__main__.Node object at 0x7f441ff989d0>, 'vhigh': <__main__.Node object at 0x7f441ff98b50>}
+lug_boot None
+med
+child: {'med': <__main__.Node object at 0x7f441ff98a00>, 'small': <__main__.Node object at 0x7f441ff98a60>, 'big': <__main__.Node object at 0x7f441ff98ac0>}
+None acc
+['vhigh', 'low', '4', 'more', 'big', 'high']
+safety None
+high
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+more
+child: {'4': <__main__.Node object at 0x7f441f3fd130>, 'more': <__main__.Node object at 0x7f441f3f84c0>, '2': <__main__.Node object at 0x7f441f402430>}
+buying None
+vhigh
+child: {'high': <__main__.Node object at 0x7f441f3f85b0>, 'med': <__main__.Node object at 0x7f441f3f8610>, 'low': <__main__.Node object at 0x7f441f3f8670>, 'vhigh': <__main__.Node object at 0x7f441f3f8df0>}
+maint None
+low
+child: {'high': <__main__.Node object at 0x7f441f387160>, 'med': <__main__.Node object at 0x7f441f387460>, 'low': <__main__.Node object at 0x7f441f3874c0>, 'vhigh': <__main__.Node object at 0x7f441f387520>}
+doors None
+4
+child: {'4': <__main__.Node object at 0x7f441f387850>, '2': <__main__.Node object at 0x7f441f3878b0>, '5more': <__main__.Node object at 0x7f441f387910>, '3': <__main__.Node object at 0x7f441f387970>}
+None acc
+['vhigh', 'low', '2', '2', 'small', 'high']
+safety None
+high
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+2
+child: {'4': <__main__.Node object at 0x7f441f3fd130>, 'more': <__main__.Node object at 0x7f441f3f84c0>, '2': <__main__.Node object at 0x7f441f402430>}
+None unacc
+['high', 'high', '5more', '2', 'big', 'med']
+safety None
+med
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+2
+child: {'4': <__main__.Node object at 0x7f441f3f3970>, 'more': <__main__.Node object at 0x7f441ff872b0>, '2': <__main__.Node object at 0x7f441f3f3a00>}
+None unacc
+['high', 'med', '5more', '2', 'med', 'low']
+safety None
+low
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+None unacc
+['med', 'med', '3', '2', 'big', 'high']
+safety None
+high
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+2
+child: {'4': <__main__.Node object at 0x7f441f3fd130>, 'more': <__main__.Node object at 0x7f441f3f84c0>, '2': <__main__.Node object at 0x7f441f402430>}
+None unacc
+['low', 'vhigh', '5more', '2', 'small', 'low']
+safety None
+low
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+None unacc
+['vhigh', 'vhigh', '3', 'more', 'small', 'high']
+safety None
+high
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+more
+child: {'4': <__main__.Node object at 0x7f441f3fd130>, 'more': <__main__.Node object at 0x7f441f3f84c0>, '2': <__main__.Node object at 0x7f441f402430>}
+buying None
+vhigh
+child: {'high': <__main__.Node object at 0x7f441f3f85b0>, 'med': <__main__.Node object at 0x7f441f3f8610>, 'low': <__main__.Node object at 0x7f441f3f8670>, 'vhigh': <__main__.Node object at 0x7f441f3f8df0>}
+maint None
+vhigh
+child: {'high': <__main__.Node object at 0x7f441f387160>, 'med': <__main__.Node object at 0x7f441f387460>, 'low': <__main__.Node object at 0x7f441f3874c0>, 'vhigh': <__main__.Node object at 0x7f441f387520>}
+None unacc
+['low', 'high', '2', 'more', 'big', 'med']
+safety None
+med
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+more
+child: {'4': <__main__.Node object at 0x7f441f3f3970>, 'more': <__main__.Node object at 0x7f441ff872b0>, '2': <__main__.Node object at 0x7f441f3f3a00>}
+buying None
+low
+child: {'high': <__main__.Node object at 0x7f441ff87f10>, 'med': <__main__.Node object at 0x7f441ff87fd0>, 'low': <__main__.Node object at 0x7f441ff87e50>, 'vhigh': <__main__.Node object at 0x7f441ff87f70>}
+maint None
+high
+child: {'high': <__main__.Node object at 0x7f441f3f3070>, 'med': <__main__.Node object at 0x7f441f3f3250>, 'low': <__main__.Node object at 0x7f441f3f3310>, 'vhigh': <__main__.Node object at 0x7f441f3f36d0>}
+None acc
+['vhigh', 'vhigh', '5more', 'more', 'small', 'high']
+safety None
+high
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+more
+child: {'4': <__main__.Node object at 0x7f441f3fd130>, 'more': <__main__.Node object at 0x7f441f3f84c0>, '2': <__main__.Node object at 0x7f441f402430>}
+buying None
+vhigh
+child: {'high': <__main__.Node object at 0x7f441f3f85b0>, 'med': <__main__.Node object at 0x7f441f3f8610>, 'low': <__main__.Node object at 0x7f441f3f8670>, 'vhigh': <__main__.Node object at 0x7f441f3f8df0>}
+maint None
+vhigh
+child: {'high': <__main__.Node object at 0x7f441f387160>, 'med': <__main__.Node object at 0x7f441f387460>, 'low': <__main__.Node object at 0x7f441f3874c0>, 'vhigh': <__main__.Node object at 0x7f441f387520>}
+None unacc
+['high', 'low', '5more', '4', 'small', 'med']
+safety None
+med
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+4
+child: {'4': <__main__.Node object at 0x7f441f3f3970>, 'more': <__main__.Node object at 0x7f441ff872b0>, '2': <__main__.Node object at 0x7f441f3f3a00>}
+buying None
+high
+child: {'high': <__main__.Node object at 0x7f441f3f3a60>, 'med': <__main__.Node object at 0x7f441f3f3b20>, 'low': <__main__.Node object at 0x7f441f3f3ac0>, 'vhigh': <__main__.Node object at 0x7f441f3f3f40>}
+lug_boot None
+small
+child: {'med': <__main__.Node object at 0x7f441f3f3b50>, 'small': <__main__.Node object at 0x7f441f3f3bb0>, 'big': <__main__.Node object at 0x7f441f3f3c10>}
+None unacc
+['low', 'med', '4', '2', 'big', 'low']
+safety None
+low
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+None unacc
+['med', 'vhigh', '3', '2', 'small', 'med']
+safety None
+med
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+2
+child: {'4': <__main__.Node object at 0x7f441f3f3970>, 'more': <__main__.Node object at 0x7f441ff872b0>, '2': <__main__.Node object at 0x7f441f3f3a00>}
+None unacc
+['med', 'high', '4', 'more', 'small', 'med']
+safety None
+med
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+more
+child: {'4': <__main__.Node object at 0x7f441f3f3970>, 'more': <__main__.Node object at 0x7f441ff872b0>, '2': <__main__.Node object at 0x7f441f3f3a00>}
+buying None
+med
+child: {'high': <__main__.Node object at 0x7f441ff87f10>, 'med': <__main__.Node object at 0x7f441ff87fd0>, 'low': <__main__.Node object at 0x7f441ff87e50>, 'vhigh': <__main__.Node object at 0x7f441ff87f70>}
+lug_boot None
+small
+child: {'med': <__main__.Node object at 0x7f441f38d430>, 'small': <__main__.Node object at 0x7f441f38d610>, 'big': <__main__.Node object at 0x7f441f38d670>}
+maint None
+high
+child: {'high': <__main__.Node object at 0x7f441f38d9a0>, 'med': <__main__.Node object at 0x7f441f38dd00>, 'low': <__main__.Node object at 0x7f441f38ddc0>, 'vhigh': <__main__.Node object at 0x7f441f38dd60>}
+None unacc
+['vhigh', 'low', '4', '4', 'big', 'low']
+safety None
+low
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+None unacc
+['high', 'low', '5more', '4', 'big', 'med']
+safety None
+med
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+4
+child: {'4': <__main__.Node object at 0x7f441f3f3970>, 'more': <__main__.Node object at 0x7f441ff872b0>, '2': <__main__.Node object at 0x7f441f3f3a00>}
+buying None
+high
+child: {'high': <__main__.Node object at 0x7f441f3f3a60>, 'med': <__main__.Node object at 0x7f441f3f3b20>, 'low': <__main__.Node object at 0x7f441f3f3ac0>, 'vhigh': <__main__.Node object at 0x7f441f3f3f40>}
+lug_boot None
+big
+child: {'med': <__main__.Node object at 0x7f441f3f3b50>, 'small': <__main__.Node object at 0x7f441f3f3bb0>, 'big': <__main__.Node object at 0x7f441f3f3c10>}
+maint None
+low
+child: {'high': <__main__.Node object at 0x7f441f3f3fa0>, 'med': <__main__.Node object at 0x7f441ff97040>, 'low': <__main__.Node object at 0x7f441ff970a0>, 'vhigh': <__main__.Node object at 0x7f441ff97100>}
+None acc
+['low', 'vhigh', '3', 'more', 'small', 'med']
+safety None
+med
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+more
+child: {'4': <__main__.Node object at 0x7f441f3f3970>, 'more': <__main__.Node object at 0x7f441ff872b0>, '2': <__main__.Node object at 0x7f441f3f3a00>}
+buying None
+low
+child: {'high': <__main__.Node object at 0x7f441ff87f10>, 'med': <__main__.Node object at 0x7f441ff87fd0>, 'low': <__main__.Node object at 0x7f441ff87e50>, 'vhigh': <__main__.Node object at 0x7f441ff87f70>}
+maint None
+vhigh
+child: {'high': <__main__.Node object at 0x7f441f3f3070>, 'med': <__main__.Node object at 0x7f441f3f3250>, 'low': <__main__.Node object at 0x7f441f3f3310>, 'vhigh': <__main__.Node object at 0x7f441f3f36d0>}
+lug_boot None
+small
+child: {'med': <__main__.Node object at 0x7f441ff98640>, 'small': <__main__.Node object at 0x7f441ff986a0>, 'big': <__main__.Node object at 0x7f441ff98700>}
+None unacc
+['vhigh', 'low', '5more', '2', 'small', 'low']
+safety None
+low
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+None unacc
+['low', 'vhigh', '2', '2', 'med', 'med']
+safety None
+med
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+2
+child: {'4': <__main__.Node object at 0x7f441f3f3970>, 'more': <__main__.Node object at 0x7f441ff872b0>, '2': <__main__.Node object at 0x7f441f3f3a00>}
+None unacc
+['med', 'med', '4', '4', 'big', 'low']
+safety None
+low
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+None unacc
+['med', 'high', '4', 'more', 'big', 'high']
+safety None
+high
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+more
+child: {'4': <__main__.Node object at 0x7f441f3fd130>, 'more': <__main__.Node object at 0x7f441f3f84c0>, '2': <__main__.Node object at 0x7f441f402430>}
+buying None
+med
+child: {'high': <__main__.Node object at 0x7f441f3f85b0>, 'med': <__main__.Node object at 0x7f441f3f8610>, 'low': <__main__.Node object at 0x7f441f3f8670>, 'vhigh': <__main__.Node object at 0x7f441f3f8df0>}
+maint None
+high
+child: {'high': <__main__.Node object at 0x7f441f3f8fa0>, 'med': <__main__.Node object at 0x7f441f3f8490>, 'low': <__main__.Node object at 0x7f441f3fffa0>, 'vhigh': <__main__.Node object at 0x7f441f3fff40>}
+None acc
+['high', 'high', '5more', '4', 'big', 'high']
+safety None
+high
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+4
+child: {'4': <__main__.Node object at 0x7f441f3fd130>, 'more': <__main__.Node object at 0x7f441f3f84c0>, '2': <__main__.Node object at 0x7f441f402430>}
+buying None
+high
+child: {'high': <__main__.Node object at 0x7f441f3fd220>, 'med': <__main__.Node object at 0x7f441f3fd280>, 'low': <__main__.Node object at 0x7f441f3fd2e0>, 'vhigh': <__main__.Node object at 0x7f441f3fd4c0>}
+maint None
+high
+child: {'high': <__main__.Node object at 0x7f441f3fd310>, 'med': <__main__.Node object at 0x7f441f3fd370>, 'low': <__main__.Node object at 0x7f441f3fd3d0>, 'vhigh': <__main__.Node object at 0x7f441f3fd430>}
+None acc
+['med', 'vhigh', '4', 'more', 'med', 'low']
+safety None
+low
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+None unacc
+['low', 'med', '3', '4', 'small', 'high']
+safety None
+high
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+4
+child: {'4': <__main__.Node object at 0x7f441f3fd130>, 'more': <__main__.Node object at 0x7f441f3f84c0>, '2': <__main__.Node object at 0x7f441f402430>}
+buying None
+low
+child: {'high': <__main__.Node object at 0x7f441f3fd220>, 'med': <__main__.Node object at 0x7f441f3fd280>, 'low': <__main__.Node object at 0x7f441f3fd2e0>, 'vhigh': <__main__.Node object at 0x7f441f3fd4c0>}
+maint None
+med
+child: {'high': <__main__.Node object at 0x7f441f3fdbb0>, 'med': <__main__.Node object at 0x7f441f3fdc70>, 'low': <__main__.Node object at 0x7f441f3fddf0>, 'vhigh': <__main__.Node object at 0x7f441f3fdf70>}
+lug_boot None
+small
+child: {'med': <__main__.Node object at 0x7f441f3fde20>, 'small': <__main__.Node object at 0x7f441f3fde80>, 'big': <__main__.Node object at 0x7f441f3fdee0>}
+None good
+['vhigh', 'med', '3', '2', 'med', 'low']
+safety None
+low
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+None unacc
+['med', 'high', '5more', 'more', 'big', 'med']
+safety None
+med
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+more
+child: {'4': <__main__.Node object at 0x7f441f3f3970>, 'more': <__main__.Node object at 0x7f441ff872b0>, '2': <__main__.Node object at 0x7f441f3f3a00>}
+buying None
+med
+child: {'high': <__main__.Node object at 0x7f441ff87f10>, 'med': <__main__.Node object at 0x7f441ff87fd0>, 'low': <__main__.Node object at 0x7f441ff87e50>, 'vhigh': <__main__.Node object at 0x7f441ff87f70>}
+lug_boot None
+big
+child: {'med': <__main__.Node object at 0x7f441f38d430>, 'small': <__main__.Node object at 0x7f441f38d610>, 'big': <__main__.Node object at 0x7f441f38d670>}
+maint None
+high
+child: {'high': <__main__.Node object at 0x7f441f3f30a0>, 'med': <__main__.Node object at 0x7f441f3f3100>, 'low': <__main__.Node object at 0x7f441f3f3160>, 'vhigh': <__main__.Node object at 0x7f441f3f31c0>}
+None acc
+['med', 'med', '2', '4', 'small', 'high']
+safety None
+high
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+4
+child: {'4': <__main__.Node object at 0x7f441f3fd130>, 'more': <__main__.Node object at 0x7f441f3f84c0>, '2': <__main__.Node object at 0x7f441f402430>}
+buying None
+med
+child: {'high': <__main__.Node object at 0x7f441f3fd220>, 'med': <__main__.Node object at 0x7f441f3fd280>, 'low': <__main__.Node object at 0x7f441f3fd2e0>, 'vhigh': <__main__.Node object at 0x7f441f3fd4c0>}
+maint None
+med
+child: {'high': <__main__.Node object at 0x7f441f3fd4f0>, 'med': <__main__.Node object at 0x7f441f3fd550>, 'low': <__main__.Node object at 0x7f441f3fd610>, 'vhigh': <__main__.Node object at 0x7f441f3fd8b0>}
+lug_boot None
+small
+child: {'med': <__main__.Node object at 0x7f441f3fd640>, 'small': <__main__.Node object at 0x7f441f3fd700>, 'big': <__main__.Node object at 0x7f441f3fd6a0>}
+None acc
+['high', 'high', '3', '2', 'med', 'med']
+safety None
+med
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+2
+child: {'4': <__main__.Node object at 0x7f441f3f3970>, 'more': <__main__.Node object at 0x7f441ff872b0>, '2': <__main__.Node object at 0x7f441f3f3a00>}
+None unacc
+['high', 'med', '4', '4', 'med', 'high']
+safety None
+high
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+4
+child: {'4': <__main__.Node object at 0x7f441f3fd130>, 'more': <__main__.Node object at 0x7f441f3f84c0>, '2': <__main__.Node object at 0x7f441f402430>}
+buying None
+high
+child: {'high': <__main__.Node object at 0x7f441f3fd220>, 'med': <__main__.Node object at 0x7f441f3fd280>, 'low': <__main__.Node object at 0x7f441f3fd2e0>, 'vhigh': <__main__.Node object at 0x7f441f3fd4c0>}
+maint None
+med
+child: {'high': <__main__.Node object at 0x7f441f3fd310>, 'med': <__main__.Node object at 0x7f441f3fd370>, 'low': <__main__.Node object at 0x7f441f3fd3d0>, 'vhigh': <__main__.Node object at 0x7f441f3fd430>}
+None acc
+['vhigh', 'high', '5more', '2', 'small', 'high']
+safety None
+high
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+2
+child: {'4': <__main__.Node object at 0x7f441f3fd130>, 'more': <__main__.Node object at 0x7f441f3f84c0>, '2': <__main__.Node object at 0x7f441f402430>}
+None unacc
+['vhigh', 'vhigh', '3', '4', 'med', 'high']
+safety None
+high
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+4
+child: {'4': <__main__.Node object at 0x7f441f3fd130>, 'more': <__main__.Node object at 0x7f441f3f84c0>, '2': <__main__.Node object at 0x7f441f402430>}
+buying None
+vhigh
+child: {'high': <__main__.Node object at 0x7f441f3fd220>, 'med': <__main__.Node object at 0x7f441f3fd280>, 'low': <__main__.Node object at 0x7f441f3fd2e0>, 'vhigh': <__main__.Node object at 0x7f441f3fd4c0>}
+maint None
+vhigh
+child: {'high': <__main__.Node object at 0x7f441f402250>, 'med': <__main__.Node object at 0x7f441f4022b0>, 'low': <__main__.Node object at 0x7f441f402310>, 'vhigh': <__main__.Node object at 0x7f441f402370>}
+None unacc
+['low', 'low', '2', 'more', 'med', 'high']
+safety None
+high
+child: {'high': <__main__.Node object at 0x7f441f3f8460>, 'med': <__main__.Node object at 0x7f441fab97c0>, 'low': <__main__.Node object at 0x7f441f3f8580>}
+persons None
+more
+child: {'4': <__main__.Node object at 0x7f441f3fd130>, 'more': <__main__.Node object at 0x7f441f3f84c0>, '2': <__main__.Node object at 0x7f441f402430>}
+buying None
+low
+child: {'high': <__main__.Node object at 0x7f441f3f85b0>, 'med': <__main__.Node object at 0x7f441f3f8610>, 'low': <__main__.Node object at 0x7f441f3f8670>, 'vhigh': <__main__.Node object at 0x7f441f3f8df0>}
+maint None
+low
+child: {'high': <__main__.Node object at 0x7f441f385760>, 'med': <__main__.Node object at 0x7f441f385820>, 'low': <__main__.Node object at 0x7f441f385ca0>, 'vhigh': <__main__.Node object at 0x7f441f3857c0>}
+lug_boot None
+med
+child: {'small': <__main__.Node object at 0x7f441f385f70>, 'big': <__main__.Node object at 0x7f441f385fd0>}

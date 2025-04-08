@@ -1,0 +1,18 @@
+digraph {
+	node [shape=box]
+	age
+	age -> yes
+	yes
+	age -> credit_rating
+	credit_rating
+	credit_rating -> yes
+	yes
+	credit_rating -> no
+	no
+	age -> student
+	student
+	student -> no
+	no
+	student -> yes
+	yes
+}
